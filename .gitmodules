@@ -8,3 +8,7 @@
 [submodule "reveal.js-menu"]
 	path = reveal.js-menu
 	url = https://github.com/denehyg/reveal.js-menu
+[submodule "plugins/remote-control"]
+	path = plugins/remote-control
+	branch = working
+	url = https://github.com/aspiers/reveal.js-remote-control-plugin
